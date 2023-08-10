@@ -1,0 +1,116 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+
+h1 {
+    font-size: 40px;
+    margin-right: 350px;
+    margin-left: 350px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+
+}
+
+h2 {
+    margin-top: 60px;
+    font-size: 20px;
+    margin-right: 350px;
+    margin-left: 350px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: darkgray;
+  }
+
+  .active {
+    background-color: #1DA1F2;
+  }
+  
+
+  ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  ul {
+    border: 0px solid #e7e7e7;
+    background-color: #f3f3f3;
+  }
+  
+  li a {
+    color: #666;
+    font-family: Arial, sans-serif;
+}
+
+  ul {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .twitter-tweet {
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .imgur-embed-pub {
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.p1 {
+    margin-right: 350px;
+    margin-left: 350px;
+    font-size: 15px;
+    text-align: left;
+    color: #222222;
+    font-family: Arial, sans-serif;
+  }
+
+.p2 {
+    margin-right: 350px;
+    margin-left: 400px;
+    font-size: 15px;
+    text-align: left;
+    color: #222222;
+    font-family: Arial, sans-serif;
+  }
+
+  .p3 {
+    font-size: 10px;
+    text-align: center;
+    color: #222222;
+  }
+
+  
