@@ -23,6 +23,14 @@ h2 {
     text-align: left;
     font-family: Arial, sans-serif;
 }
+
+h3 {
+  font-size: 15px;
+  margin-right: 350px;
+  margin-left: 350px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
   
   li {
     float: left;
