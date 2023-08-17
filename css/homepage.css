@@ -126,4 +126,14 @@ h3 {
     display: inline-block;
     text-align: left;
   }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.light-mode {
+    background-color: white;
+    color: black;
+}
   
