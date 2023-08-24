@@ -83,6 +83,15 @@ h3 {
     width: 50%;
   }
 
+  .sheets {
+    display: block;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 800px;
+  }
+
   .twitter-tweet {
     display: center;
     margin-left: auto;
@@ -126,14 +135,3 @@ h3 {
     display: inline-block;
     text-align: left;
   }
-
-  .dark-mode {
-    background-color: black;
-    color: white;
-}
-
-.light-mode {
-    background-color: white;
-    color: black;
-}
-  
